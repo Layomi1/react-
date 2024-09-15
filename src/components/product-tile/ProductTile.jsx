@@ -9,10 +9,8 @@ const ProductTile = ({ product }) => {
             h-full w-full"
         />
       </div>
-      <div >
-        <h1 className="w-40 truncate mt-3 text-gray-700 text-lg font-bold">{product?.title}</h1>
-      </div>
-      <div className="flex items-center justify-between w-full mt-5 ">
+        <figcaption className="w-40 truncate mt-3 text-gray-700 text-lg font-bold">{product?.title}</figcaption>
+      <div className="flex items-center justify-center w-full mt-5 ">
         <button className="bg-red-950 text-white rounded-lg font-bold border-2 p-4">Add to Cart</button>
       </div>
     </figure>
