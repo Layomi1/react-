@@ -1,3 +1,7 @@
+# A shopping cart app
+- Hosted on https://frontend-rookie-shopping-cart.netlify.app/
+- This project was implemented using React and Redux
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
